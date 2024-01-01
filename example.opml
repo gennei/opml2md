@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml>
+  <head>
+    <title>Google Podcasts Subscriptions</title>
+  </head>
+  <body>
+    <outline text='feeds'>
+      <outline type='rss' text='Pod de Engineer' xmlUrl='https://anchor.fm/s/12948d58/podcast/rss'/>
+      <outline type='rss' text='Rebuild.fm' xmlUrl='https://feeds.rebuild.fm/rebuildfm'/>
+      <outline type='rss' text='resize.fm' xmlUrl='https://anchor.fm/s/416f2048/podcast/rss'/>
+    </outline>
+  </body>
+</opml>
