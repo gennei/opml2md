@@ -1,6 +1,7 @@
 ## これはなに?
 
-[Google データ エクスポート](https://takeout.google.com/) で 自分が購読しているPodcastの一覧をエクスポートできる。それを Markdown のリスト形式に変換できるスクリプトです。
+[Google データ エクスポート](https://takeout.google.com/) で 自分が購読しているPodcastの一覧をエクスポートできる。  
+それを Markdown のリスト形式に変換できるスクリプトです。
 
 ## 使い方
 
